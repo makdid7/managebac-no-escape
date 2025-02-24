@@ -1,7 +1,7 @@
 # No Escape
 A product of frustrating misclicks, this browser plugin manipulates keyboard & mouse input, helping prevent accidental progress loss in ManageBac's CAS interface.
 
-# Installation:
+## Installation:
 
 For Chrome:
 
