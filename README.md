@@ -16,8 +16,9 @@ A product of frustrating misclicks, this browser plugin manipulates keyboard & m
 2. Click the gear icon
 #### Either:
 3. Convert `.crx` to `.xpi` manually or using a tool
-4. Select `Install Add-on From File` and locate the `.xpi` file
-#### Or (less reliably):
+4. Select `Install Add-on From File`
+5. Locate the `.xpi` file
+#### Or (less permanently):
 3. Select `Debug Add-ons`
 4. Click `Load Temporary Add-on`
 5. Locate `manifest.json`
