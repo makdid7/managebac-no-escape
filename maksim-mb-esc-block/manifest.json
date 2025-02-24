@@ -1,14 +1,1 @@
-{
-    "manifest_version": 3,
-    "name": "No Escape!",
-    "version": "1.0",
-    "description": "Prevent accidental progress loss (via mouse/keyboard) while adding/editing CAS Experiences.",
-    "permissions": ["activeTab"],
-    "content_scripts": [
-      {
-        "matches": ["https://isestonia.managebac.com/student/ib/activity/cas/*"],
-        "js": ["content.js"]
-      }
-    ]
-  }
-  
+
