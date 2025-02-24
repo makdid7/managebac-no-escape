@@ -14,11 +14,11 @@ A product of frustrating misclicks, this browser plugin manipulates keyboard & m
 
 1. Go to `about:addons`
 2. Click the gear icon
-#### Either:
+#### Then, either:
 3. Convert `.crx` to `.xpi` manually or using a tool
 4. Select `Install Add-on From File`
 5. Locate the `.xpi` file
-#### Or (less permanently):
+#### or (less permanently):
 3. Select `Debug Add-ons`
 4. Click `Load Temporary Add-on`
 5. Locate `manifest.json`
