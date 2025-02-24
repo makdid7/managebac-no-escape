@@ -5,14 +5,19 @@ A product of frustrating misclicks, this browser plugin manipulates keyboard & m
 
 ### For Chrome:
 
-1. Open `chrome://extensions/` in your browser.
+1. Go to `chrome://extensions/`
 2. Enable Developer mode (toggle in the top-right)
 3. Drag and drop the `.crx` file onto the page
-4. Click Add Extension if prompted
+4. Click `Add Extension` if prompted
 
 ### For Firefox:
 
-1. Convert `.crx` to `.xpi` (manually extract it or use a conversion tool)
-2. Open `about:addons` in Firefox
-3. Click the gear icon
+1. Go to `about:addons`
+2. Click the gear icon
+#### Either:
+3. Convert `.crx` to `.xpi` manually or using a tool
 4. Select `Install Add-on From File` and locate the `.xpi` file
+#### Or (less reliably):
+3. Select `Debug Add-ons`
+4. Click `Load Temporary Add-on`
+5. Locate `manifest.json`
